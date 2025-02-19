@@ -32,9 +32,9 @@ class SecondFragment : Fragment() {
     override fun onDestroyView() {
         super.onDestroyView()
         _binding = null
+        println(dupa)
 
-        //DUPA DUPA DUPA DUPA CHUJ
-
+        //DUPA DUPA DUPA DUPA CHUJ KRUWA NIE DIZAŁA
     }
 
 }
