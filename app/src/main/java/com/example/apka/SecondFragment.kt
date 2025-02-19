@@ -11,6 +11,7 @@ import com.example.apka.databinding.FragmentSecondBinding
 class SecondFragment : Fragment() {
     private var _binding:FragmentSecondBinding? = null
     private val binding get() = _binding!!
+    private val dupa = 2137
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -31,6 +32,9 @@ class SecondFragment : Fragment() {
     override fun onDestroyView() {
         super.onDestroyView()
         _binding = null
+
+        //DUPA DUPA DUPA DUPA CHUJ
+
     }
 
 }
