@@ -34,7 +34,7 @@ class SecondFragment : Fragment() {
         _binding = null
         //println(dupa)
 
-        //MOJE KODY SOM ZAYEBYSTE
+        //MOJE KODY SOM ZAYEBYSTE!!!!
     }
 
 }
